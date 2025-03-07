@@ -18,7 +18,7 @@
             View Products →
         </a>
         <p>change 3</p>
-        <p>conflict</p>
+        <p>conflict2</p>
     </div>
 </body>
 
