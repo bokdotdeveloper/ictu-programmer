@@ -17,6 +17,7 @@
             class="mt-6 inline-block bg-blue-500 text-white px-6 py-3 rounded-lg text-lg font-semibold hover:bg-blue-600 transition">
             View Products →
         </a>
+        <p>change 3</p>
     </div>
 </body>
 
